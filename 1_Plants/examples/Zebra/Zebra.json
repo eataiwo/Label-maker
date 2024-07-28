@@ -19,7 +19,7 @@
     "image":{
         "path":  "examples/Zebra/Zebra.png",
         "size": [80, 80],
-        "position": [2, 40]
+        "position": [0, 40]
     },
     "bubble":{
         "path":  "../0_Resources/bubble.png",
@@ -51,7 +51,7 @@
         },
         "light": {
             "rel_range": [300, 2000],
-            "abs_range": [0, 5000],
+            "abs_range": [0, 4000],
             "recomended": "Medium",
             "unit": "lux",
             "icon": "../0_Resources/white-balance-sunny.png",
